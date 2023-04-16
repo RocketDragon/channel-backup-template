@@ -6,6 +6,6 @@
     "sequence": "channel-backup"
   },
   "dependencies": {
-    "channel-backup": "^1.1.1"
+    "channel-backup": "^1.2.5"
   }
 }
